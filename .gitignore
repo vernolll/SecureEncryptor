@@ -1,0 +1,8 @@
+.git
+.vs
+x64
+SecureEncryptor
+default_algorithm.txt
+delete_encrypt_context_menu.reg
+SecureEncryptor.vcxproj.filters
+SecureEncryptor.vcxproj.user
